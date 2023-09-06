@@ -1,0 +1,2 @@
+NN_train.py 用CSI振幅直接丟進NN訓練的
+NN_train_1.py 用CSI振幅圖片丟進NN訓練
